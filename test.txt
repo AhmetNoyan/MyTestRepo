@@ -1,2 +1,3 @@
 message from Ahmet
 new changes
+some changes from master
